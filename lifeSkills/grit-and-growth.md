@@ -23,4 +23,4 @@ This will, in turn, keep the person motivated to move towards their goal.
 - Take ownership of my learning and tasks
 - Make mistakes and learn from them 
 - Revisit concepts I might have already covered in the past to check my understanding 
-- Don't stop learning till I tuly master a concept
+- Don't stop learning till I truly master a concept
