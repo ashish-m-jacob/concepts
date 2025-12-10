@@ -25,7 +25,7 @@
 - Use an alarm clock to wake up in the morning
 - Build a sleep ritual to help me go to sleep
 
-## Question 6: 
+## Question 6: Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
 - Exercise immediately boosts mood and focus by increasing neurotransmitters like dopamine and serotonin. 
 - A single workout can enhance attention and reaction time for a few hours post-exercise. 
 - Over time, regular aerobic exercise enlarges and strengthens the Hippocampus — improving memory and long-term learning. 
